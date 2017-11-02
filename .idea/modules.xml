@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/firefly/Dancing.iml" filepath="$PROJECT_DIR$/firefly/Dancing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bot-trust/bot-trust.iml" filepath="$PROJECT_DIR$/bot-trust/bot-trust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dancing/dancing.iml" filepath="$PROJECT_DIR$/dancing/dancing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly/firefly.iml" filepath="$PROJECT_DIR$/firefly/firefly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/googol-string/googol-string.iml" filepath="$PROJECT_DIR$/googol-string/googol-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numbers/numbers.iml" filepath="$PROJECT_DIR$/numbers/numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old-magician/old-magician.iml" filepath="$PROJECT_DIR$/old-magician/old-magician.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse-words/reverse-words.iml" filepath="$PROJECT_DIR$/reverse-words/reverse-words.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rotate/rotate.iml" filepath="$PROJECT_DIR$/rotate/rotate.iml" />
+    </modules>
+  </component>
+</project>
