@@ -12,13 +12,13 @@ Given some text in Googlerese, can you translate it to back to normal text?
 
 Usually, Google Code Jam problems have 1 Small input and 1 Large input. This problem has only 1 Small input. Once you have solved the Small input, you have finished solving this problem.
 
-# Input
+## Input
 
 The first line of the input gives the number of test cases, T. T test cases follow, one per line.
 
 Each line consists of a string G in Googlerese, made up of one or more words containing the letters 'a' - 'z'. There will be exactly one space (' ') character between consecutive words and no spaces at the beginning or at the end of any line.
 
-Output
+## Output
 
 For each test case, output one line containing "Case #X: S" where X is the case number and S is the string that becomes G in Googlerese.
 
@@ -26,19 +26,24 @@ For each test case, output one line containing "Case #X: S" where X is the case 
 
 1 ≤ T ≤ 30.
 
-G contains at most 100 characters.
-None of the text is guaranteed to be valid English.
+G contains at most 100 characters. None of the text is guaranteed to be valid English.
 
-##Sample
+## Sample
 
 __Input__
+
 3
 ejp mysljylc kd kxveddknmc re jsicpdrysi
+
 rbcpc ypc rtcsra dkh wyfrepkym veddknkmkrkcd
+
 de kr kd eoya kw aej tysr re ujdr lkgc jv
 
 
 __Output__
+
 Case #1: our language is impossible to understand
+
 Case #2: there are twenty six factorial possibilities
+
 Case #3: so it is okay if you want to just give up

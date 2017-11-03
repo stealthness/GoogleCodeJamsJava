@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/old-magician/old-magician.iml" filepath="$PROJECT_DIR$/old-magician/old-magician.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse-words/reverse-words.iml" filepath="$PROJECT_DIR$/reverse-words/reverse-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotate/rotate.iml" filepath="$PROJECT_DIR$/rotate/rotate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>
 </project>
