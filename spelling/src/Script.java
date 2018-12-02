@@ -1,20 +1,16 @@
-package cj_t9_spelling;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 public class Script {
 
-	//private static final String basePath = "E:\\workspace-java\\Java-2016\\";
-	private static final String inputFile = "src\\cj_t9_spelling\\C-small-practice.in";
-	private static final String outputFile = "src\\cj_t9_spelling\\C-small-practice.out";
+	private static final String inputFile = "src\\C-small-practice.in";
+	private static final String outputFile = "src\\C-small-practice.out";
 
 	public static void main(String[] args) {	
 		createOutput(getCodeStrings(getStrings(inputFile)), outputFile);	

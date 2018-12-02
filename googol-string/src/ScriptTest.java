@@ -1,8 +1,7 @@
-package src;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.Test;
 
 public class ScriptTest {
 
@@ -13,7 +12,7 @@ public class ScriptTest {
 		for(int i=1;i < testResults.length+1 ;i++){
 			
 			System.out.println("Test:"+i);
-			assertEquals("Test "+i,testResults[i-1],Script.getKthValue(i));
+            assertEquals("Test"+i,"Test"+testResults[i-1],""+Script.getKthValue(i));
 		}
 	}
 

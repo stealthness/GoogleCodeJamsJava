@@ -1,11 +1,8 @@
-package cj_tongues;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
 
 public class Script {
 	
@@ -14,8 +11,8 @@ public class Script {
 
 	private static int key[] = new int[KEY_LENGTH];
 
-	private static final String INPUT = "src//cj_tongues//A-small-practice.in";
-	private static final String OUTPUT = "src//cj_tongues//A-small-practice.out";
+	private static final String INPUT = "tongues//src//A-small-practice.in";
+	private static final String OUTPUT = "tongues//src//A-small-practice.out";
 
 	private static final int keyAdj = 97;
 	

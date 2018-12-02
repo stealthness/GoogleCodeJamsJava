@@ -1,5 +1,3 @@
-package src;
-
 public class BotScript {
 
 	private static final String input = "src//bot_trust//A-large-practice.in";

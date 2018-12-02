@@ -1,5 +1,4 @@
-
-public class Scrpit {
+public class NumbersScript {
 
     public static void main(String[] args) {
 
@@ -13,7 +12,7 @@ public class Scrpit {
 
 class Code {
 
-    boolean[] isRecycle;
+    private boolean[] isRecycle;
     private int startA;
     private int endB;
 
@@ -26,15 +25,10 @@ class Code {
     public int getResult() {
         int count = 0;
         for (int i = startA; i < endB; i++) {
-
             return count + (isRecycle[i] ? 0 : 1);
         }
         return -1;
     }
 
-    private void isRecycled(int i) {
-
-
-    }
 
 }
